@@ -11,6 +11,6 @@ const About = () => {
 
 export default About;
 
-About.getLayout = function getLayout(page) {
+About.getLayout = function getLayout(page: any) {
   return <RootLayout>{page}</RootLayout>;
 };

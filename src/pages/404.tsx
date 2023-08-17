@@ -6,6 +6,7 @@ const ErrorPage = () => {
   setTimeout(() => {
     router.push("/");
   }, 5000);
+
   return (
     <div>
       <h1>You faced an eroor</h1>

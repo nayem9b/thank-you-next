@@ -5,7 +5,7 @@ import RootLayout from "../../components/Layouts/RootLayout";
 const Admin = () => {
   return (
     <div>
-      <h1>This is admin page</h1>
+      <h1>admin page</h1>
     </div>
   );
 };
